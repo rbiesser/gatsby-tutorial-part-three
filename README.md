@@ -1,3 +1,19 @@
+# Nested Layout Components
+
+## Part Three
+
+https://www.gatsbyjs.org/tutorial/part-three/
+
+- Intro to Gatsby plugins
+- Create a shared Layout
+
+### Typography.js
+
+http://kyleamathews.github.io/typography.js/
+- npm theme builder
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
